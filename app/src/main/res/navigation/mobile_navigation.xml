@@ -14,12 +14,12 @@
     <fragment
         android:id="@+id/navigation_camara"
         android:name="cuentadineromx.gps.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
+        android:label="@string/title_camara"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
         android:id="@+id/navigation_banco"
         android:name="cuentadineromx.gps.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
+        android:label="@string/title_banco"
         tools:layout="@layout/fragment_notifications" />
 </navigation>
